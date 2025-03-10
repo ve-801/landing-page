@@ -1,0 +1,123 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f3f4f6;
+}
+
+.hero {
+    background-color: #2563eb;
+    color: white;
+    padding: 80px 20px;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 1.25rem;
+    margin-bottom: 40px;
+}
+
+.hero a {
+    background-color: white;
+    color: #2563eb;
+    padding: 12px 32px;
+    border-radius: 9999px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.info {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 80px 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.info div {
+    text-align: center;
+    margin: 20px;
+}
+
+.info h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.info p {
+    color: #4b5563;
+}
+
+.login {
+    background-color: #e5e7eb;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.login h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.login a {
+    background-color: #2563eb;
+    color: white;
+    padding: 12px 32px;
+    border-radius: 9999px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.awards {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 80px 20px;
+    text-align: center;
+}
+
+.awards h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.awards p {
+    font-size: 2rem;
+    color: #4b5563;
+}
+
+.explore {
+    background-color: #2563eb;
+    color: white;
+    padding: 80px 20px;
+    text-align: center;
+}
+
+.explore h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.explore p {
+    font-size: 1.25rem;
+    margin-bottom: 40px;
+}
+
+.explore a {
+    background-color: white;
+    color: #2563eb;
+    padding: 12px 32px;
+    border-radius: 9999px;
+    text-decoration: none;
+    font-weight:bold;
+}
